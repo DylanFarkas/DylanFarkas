@@ -1,9 +1,9 @@
 ## Holi 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DylanFarkas/DylanFarkas/output/space-shooter-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DylanFarkas/DylanFarkas/output/space-shooter-light.svg" />
-  <img alt="Nave destruyendo mis contribuciones" src="https://raw.githubusercontent.com/DylanFarkas/DylanFarkas/output/space-shooter-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DylanFarkas/DylanFarkas/output/tank-shooter-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DylanFarkas/DylanFarkas/output/tank-shooter-light.svg" />
+  <img alt="Nave destruyendo mis contribuciones" src="https://raw.githubusercontent.com/DylanFarkas/DylanFarkas/output/tank-shooter-dark.svg" />
 </picture>
 
 <!--
